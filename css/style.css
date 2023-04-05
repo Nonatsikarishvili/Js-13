@@ -1,0 +1,13 @@
+.container{
+  max-width: 100%;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+.user-list li.hide{
+  display: none;
+}
+
+
